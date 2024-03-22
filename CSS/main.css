@@ -110,9 +110,13 @@ nav li a:hover{
     padding: 80px 150px;
 }
 .about .about-img{
-    float: left;
-    width: 550px;
+    display: inline-block;
+    width: 45%;
     margin-right: 100px;
+}
+.about .about-us{
+    display: inline-block;
+    width: 45%;
 }
 .about img{
     width: 100%;
@@ -134,11 +138,12 @@ nav li a:hover{
     padding: 80px 150px;
 }
 .location .our-location{
-    width: 550px;
+    display: inline-block;
+    width: 45%;
 }
 .location .location-img{
     display: inline-block;
-    width: 550px;
+    width: 45%;
 }
 .location .location-img img{
     width: 100%;
