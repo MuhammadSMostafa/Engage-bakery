@@ -197,7 +197,9 @@ iframe{
     padding: 20px 150px;
     background-color: #403D38;
     color: white;
-    height: 50vh;
+}
+.last-section span{
+display: inline-block;
 }
 .last-section img {
     width: 100%;
